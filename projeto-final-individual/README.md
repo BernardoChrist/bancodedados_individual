@@ -8,3 +8,11 @@
 ### Diagramas:
 1. Modelo Conceitual
 
+![Captura de tela 2023-08-21 003453](https://github.com/BernardoChrist/bancodedados_individual/assets/141193675/39f79bb7-f04f-44a3-bc44-8c4f467e764e)
+
+2. Modelo Lógico
+
+![Captura de tela 2023-08-21 003716](https://github.com/BernardoChrist/bancodedados_individual/assets/141193675/8e5a4352-5315-4171-aa65-acfe8435e242)
+
+3. Modelo Físico
+
