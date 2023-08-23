@@ -131,7 +131,7 @@ order by
 <hr>
 
 ## Tecnologias utilizadas:
-### SQL; DBeaver; DrawIO
+### - SQL; DBeaver; DrawIO
 <hr>
 
 ## Elaborado por: 
